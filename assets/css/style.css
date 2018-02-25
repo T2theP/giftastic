@@ -1,0 +1,48 @@
+body {
+	background-image: url("../images/mixtape.jpg");
+}
+
+.btn {
+	margin-right: 10px;
+}
+
+form, input {
+	margin-right: 10px;
+}
+
+#a-input {
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+img {
+    margin: 10px;
+    border: 5px;
+    border-color: silver;
+   
+}
+#gifPanel {
+	border: solid #ff4036 2px;
+}
+
+#jumbo {
+	background-color: black;
+	border: none;
+}
+
+#text {
+	color: white;
+}
+
+#panelBody {
+    background-color: rgba(75, 73, 73, 0.479);
+    border: 20px;
+	box-shadow: none;
+	border-bottom: solid #ff4136 5px;
+}
+
+#rating {
+	margin: 10px;
+	color: #f8f6f6;
+	background-color: black;
+}
